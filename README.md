@@ -1,2 +1,2 @@
 # Bpm-detector
-Tempo analysis in musical signals
+Beat per minute detection in musical signals
